@@ -33,16 +33,6 @@ I'm Software Engineer beginner is Frontend Developer & current learning Backend 
 ### **AusVie**
 
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
-<p style="font-weight: 700;">Backend Developer</p><p style="font-style: italic;">February 2022 - Jun 2022</p></div>
-
-**Project:** AusVie - Training
-
-- **Description:** Learning NestJS and apply to build a backend for a project GraphQl API for ECommerce-site.
-- **Technologies:** NestJS, Docker, .v.v.
-- **Database**: MongoDB.
-- **Responsibilities:** Develop backend config base project.
-
-<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
 <p style="font-weight: 700;">Backend Developer & Ops</p><p style="font-style: italic;">June 2022 - Present</p></div>
 
 **Project:** Logistics
@@ -53,10 +43,18 @@ I'm Software Engineer beginner is Frontend Developer & current learning Backend 
   - Develop backend custom Strapi API, config CI/CD.
   - Config Terraform for deploy to AWS Web Services.
 - **Architecture**: Terraform (AWS Web Services)
-
   - [**`Source Demo`**](https://github.com/luongvantuit/infrastructure-as-code) Basic Terraform demo with AWS Web Services. Use terraform to create VPC, EC2, RDS, S3, .v.v.
-
   - **In future**, I will use this demo to apply services advanced (Auto Scaling, ECS .v.v.).
+
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
+<p style="font-weight: 700;">Backend Developer</p><p style="font-style: italic;">February 2022 - Jun 2022</p></div>
+
+**Project:** AusVie - Training
+
+- **Description:** Learning NestJS and apply to build a backend for a project GraphQl API for ECommerce-site.
+- **Technologies:** NestJS, Docker, .v.v.
+- **Database**: MongoDB.
+- **Responsibilities:** Develop backend config base project.
 
 ### **Rogo Solutions**
 
@@ -94,7 +92,14 @@ I'm Software Engineer beginner is Frontend Developer & current learning Backend 
 
 ---
 
-### **Build On Vietnam 2021**
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
+<p style="font-weight: 700;">Build On Vietnam 2021</p><p style="font-style: italic;">August 2021 - Sep 2021</p></div>
 
 - **Description:** Join with Techcombank FACT team to recommend & demo a solution for Techcombank. This application help customer can manage their account, money, .v.v. more easily.
 - **Finalist** - Build On Contest [Certificates](https://buildonvietnam21.s3.ap-southeast-1.amazonaws.com/BOVN21+Certificates/Techcombank_FACT_Luong+Van+Tu.pdf)
+
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
+<p style="font-weight: 700;">HAMIC - HUS Applied Mathematics and Informatics Club</p><p style="font-style: italic;">June 2021 - Present</p></div>
+
+- Head of Design & Development Web
+- The organizers of the club's activities, such as: WContest: Web for Education, .v.v.
