@@ -1,46 +1,82 @@
-# Getting Started with Create React App
+<h2 align="center" style="font-weight: 700;">Luong Van Tu</h2>
+<p align="center"><a href="mailto:luongvantuit@gmail.com">luongvantuit@gmail.com</a></p>
+<p align="center">+84965445305</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## **SUMMARY**
+---
+I'm Software Engineer beginner is Frontend Developer & current learning Backend Development. I have 1 year experience in Backend & Ops. I'm a person who is passionate about learning new things, especially in the field of technology. I'm a person who is always willing to learn and share knowledge with others.
+## **SKILLS**
+---
+- **Languages:** Javascript, Java/Kotlin, .v.v.
+- **Frameworks:** React, React Native, NextJS, NodeJS, TailwindCSS, Express, NestJS .v.v.
+- **Databases:** MongoDB, PostgreSQL.
+- **DevOps:** CI/CD (Bitbucket Pipeline, Github Action, Jenkins), Docker, Kubernetes, Git, Terraform .v.v.
+## **EDUCATION**
+---
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
+<p style="font-weight: 700;">University of Science, Vietnam National University Hanoi - Ha Noi, Vietnam</p><p style="font-style: italic;">October 2019 - Present</p></div>
 
-## Available Scripts
+> Computer and Information Science
+## **Experience**
+---
+### **AusVie**
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
+<p style="font-weight: 700;">Backend Developer</p><p style="font-style: italic;">February 2022 - Jun 2022</p></div>
 
-In the project directory, you can run:
+- **Project:** AusVie - Training
+  - **Description:** Learning NestJS and apply to build a backend for a project GraphQl API for ECommerce-site.
+  - **Technologies:** NestJS, Docker, .v.v.
+  - **Database**: MongoDB.
+  - **Responsibilities:** Develop backend config base project.
 
-### `npm start`
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
+<p style="font-weight: 700;">Backend Developer & Ops</p><p style="font-style: italic;">June 2022 - Present</p></div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **Project:** Logistics
+  - **Description:** Build a web application for logistics company between Australia & Vietnam.
+  - **Technologies:** Strapi CMS, Bitbucket Pipeline, Terraform, Docker, NextJS .v.v.
+  - **Responsibilities:**
+    - Develop backend custom Strapi API, config CI/CD.
+    - Config Terraform for deploy to AWS Web Services.
+- **Architecture**: Terraform (AWS Web Services)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  - [**`Source Demo`**](https://github.com/luongvantuit/infrastructure-as-code) Basic Terraform demo with AWS Web Services. Use terraform to create VPC, EC2, RDS, S3, .v.v.
 
-### `npm test`
+  - **In future**, I will use this demo to apply services advanced (Auto Scaling, ECS .v.v.).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  - **Architecture Design Base Demo**
+<img src="./assets/iac-base.png" alt="AWS IaC"/>
 
-### `npm run build`
+### **Rogo Solutions**
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
+<p style="font-weight: 700;">Frontend/Full Developer</p><p style="font-style: italic;">April 2022 - Jun 2022</p></div>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Project:** Rogo Hotel
+  - **Description:**
+    - Rogo Hotel App Desktop is a hotel manager booking application for reception. Reception can use book hotel, check-in, check-out, .v.v. for customer. With this application, reception can manage hotel more easily.
+    - Mobile App when customer check-in hotel, they can use this app to control device in room, order food, .v.v.
+  - **Technologies:**
+    - **Frameworks:** ReactJS, ElectronJS, MQTT, NodeJS, Express, .v.v.
+    - **Database:** MongoDB.
+    - **Tools:** Webpack, MQTT Paho Client, .v.v.
+    - **Device**: Desktop (Windows, Linux, MacOS), Mobile (IPad, IPhone).
+  - **Responsibilities:**
+    - Develop desktop application with ElectronJS, ReactJS (Render).
+    - Develop mobile application with SwiftUI.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
+<p style="font-weight: 700;">Intern Frontend Developer</p><p style="font-style: italic;">March 2020 - Sep 2020</p></div>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **Project**: Rogo Partner
+  - **Description:** This is a website for manage sell device of partner Rogo Solutions. Admin can manage partner add new or delete partner, .v.v.
+  - **Technologies:**
+    - **Frameworks:** Flutter, NodeJS, Express, .v.v.
+    - **Database:** MongoDB.
+    - **Tools:** Docker, .v.v.
+  - **Responsibilities:**
+    - Develop website with Flutter web.
+## **ACTIVITIES**
+---
+### **Build On Vietnam 2021**
+- **Description:** Join with Techcombank FACT team to recommend & demo a solution for Techcombank. This application help customer can manage their account, money, .v.v. more easily.
+- **Finalist** - Build On Contest [Certificates](https://buildonvietnam21.s3.ap-southeast-1.amazonaws.com/BOVN21+Certificates/Techcombank_FACT_Luong+Van+Tu.pdf)
