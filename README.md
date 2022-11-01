@@ -1,4 +1,4 @@
-<h2 align="center" style="font-weight: 700;">Luong Van Tu</h2>
+<p align="center" style="font-weight: 700;">Luong Van Tu</p>
 <p align="center"><a href="mailto:luongvantuit@gmail.com">luongvantuit@gmail.com</a></p>
 <p align="center">+84965445305</p>
 
@@ -12,10 +12,10 @@ I'm Software Engineer beginner is Frontend Developer & current learning Backend 
 
 ---
 
-- **Languages:** Javascript, Java/Kotlin, .v.v.
-- **Frameworks:** React, React Native, NextJS, NodeJS, TailwindCSS, Express, NestJS .v.v.
+- **Languages:** Javascript, Java/Kotlin.
+- **Frameworks:** React, React Native, NextJS, NodeJS, TailwindCSS, Express, NestJS.
 - **Databases:** MongoDB, PostgreSQL.
-- **DevOps:** CI/CD (Bitbucket Pipeline, Github Action, Jenkins), Docker, Kubernetes, Git, Terraform .v.v.
+- **DevOps:** CI/CD (Bitbucket Pipeline, Github Action, Jenkins), Docker, Kubernetes, Git, Terraform.
 
 ## **EDUCATION**
 
@@ -38,12 +38,12 @@ I'm Software Engineer beginner is Frontend Developer & current learning Backend 
 **Project:** Logistics
 
 - **Description:** Build a web application for logistics company between Australia & Vietnam.
-- **Technologies:** Strapi CMS, Bitbucket Pipeline, Terraform, Docker, NextJS .v.v.
+- **Technologies:** Strapi CMS, Bitbucket Pipeline, Terraform, Docker, NextJS.
 - **Responsibilities:**
   - Develop backend custom Strapi API, config CI/CD.
   - Config Terraform for deploy to AWS Web Services.
 - **Architecture**: Terraform (AWS Web Services)
-  - [**`Source Demo`**](https://github.com/luongvantuit/infrastructure-as-code) Basic Terraform demo with AWS Web Services. Use terraform to create VPC, EC2, RDS, S3, .v.v.
+  - [**`Source Demo`**](https://github.com/luongvantuit/infrastructure-as-code) Basic Terraform demo with AWS Web Services. Use terraform to create VPC, EC2, RDS, S3.
   - **In future**, I will use this demo to apply services advanced (Auto Scaling, ECS .v.v.).
 
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
@@ -52,7 +52,7 @@ I'm Software Engineer beginner is Frontend Developer & current learning Backend 
 **Project:** AusVie - Training
 
 - **Description:** Learning NestJS and apply to build a backend for a project GraphQl API for ECommerce-site.
-- **Technologies:** NestJS, Docker, .v.v.
+- **Technologies:** NestJS, Docker.
 - **Database**: MongoDB.
 - **Responsibilities:** Develop backend config base project.
 
@@ -64,12 +64,12 @@ I'm Software Engineer beginner is Frontend Developer & current learning Backend 
 **Project:** Rogo Hotel
 
 - **Description:**
-  - Rogo Hotel App Desktop is a hotel manager booking application for reception. Reception can use book hotel, check-in, check-out, .v.v. for customer. With this application, reception can manage hotel more easily.
-  - Mobile App when customer check-in hotel, they can use this app to control device in room, order food, .v.v.
+  - Rogo Hotel App Desktop is a hotel manager booking application for reception. Reception can use book hotel, check-in, check-out for customer. With this application, reception can manage hotel more easily.
+  - Mobile App when customer check-in hotel, they can use this app to control device in room, order food.
 - **Technologies:**
-  - **Frameworks:** ReactJS, ElectronJS, MQTT, NodeJS, Express, .v.v.
+  - **Frameworks:** ReactJS, ElectronJS, MQTT, NodeJS, Express.
   - **Database:** MongoDB.
-  - **Tools:** Webpack, MQTT Paho Client, .v.v.
+  - **Tools:** Webpack, MQTT Paho Client.
   - **Device**: Desktop (Windows, Linux, MacOS), Mobile (IPad, IPhone).
 - **Responsibilities:**
   - Develop desktop application with ElectronJS, ReactJS (Render).
@@ -80,11 +80,11 @@ I'm Software Engineer beginner is Frontend Developer & current learning Backend 
 
 **Project**: Rogo Partner
 
-- **Description:** This is a website for manage sell device of partner Rogo Solutions. Admin can manage partner add new or delete partner, .v.v.
+- **Description:** This is a website for manage sell device of partner Rogo Solutions. Admin can manage partner add new or delete partner.
 - **Technologies:**
-  - **Frameworks:** Flutter, NodeJS, Express, .v.v.
+  - **Frameworks:** Flutter, NodeJS, Express.
   - **Database:** MongoDB.
-  - **Tools:** Docker, .v.v.
+  - **Tools:** Docker.
 - **Responsibilities:**
   - Develop website with Flutter web.
 
@@ -95,11 +95,11 @@ I'm Software Engineer beginner is Frontend Developer & current learning Backend 
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
 <p style="font-weight: 700;">Build On Vietnam 2021</p><p style="font-style: italic;">August 2021 - Sep 2021</p></div>
 
-- **Description:** Join with Techcombank FACT team to recommend & demo a solution for Techcombank. This application help customer can manage their account, money, .v.v. more easily.
+- **Description:** Join with Techcombank FACT team to recommend & demo a solution for Techcombank. This application help customer can manage their account, money more easily.
 - **Finalist** - Build On Contest [Certificates](https://buildonvietnam21.s3.ap-southeast-1.amazonaws.com/BOVN21+Certificates/Techcombank_FACT_Luong+Van+Tu.pdf)
 
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
 <p style="font-weight: 700;">HAMIC - HUS Applied Mathematics and Informatics Club</p><p style="font-style: italic;">June 2021 - Present</p></div>
 
 - Head of Design & Development Web
-- The organizers of the club's activities, such as: WContest: Web for Education, .v.v.
+- The organizers of the club's activities, such as: WContest: Web for Education.
