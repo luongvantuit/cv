@@ -6,7 +6,7 @@
 
 ---
 
-I'm Software Engineer beginner is Frontend Developer & current learning Backend Development. I have 1 year experience in Backend & Ops. I'm a person who is passionate about learning new things, especially in the field of technology. I'm a person who is always willing to learn and share knowledge with others.
+I'm Software Engineer beginner is Frontend Developer & current learning Backend Developer. I have 1 year experience in Backend & Ops. I'm a person who is passionate about learning new things, especially in the field of technology. I'm a person who is always willing to learn and share knowledge with others.
 
 ## **SKILLS**
 
