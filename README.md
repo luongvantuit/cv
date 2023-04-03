@@ -43,7 +43,7 @@ I'm Software Engineer beginner is Frontend Developer & current learning Backend 
   - Create UI from Figma design.
   - Make all screens: Scan QR Pallet, Update Step(Confirm Booking, Unit Packing),...
   - Interact with REST API(form-data, application/json).
-  - Manager state application with Redux(Authentication).
+  - Manager state application with Redux(Authentication,...).
   
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
 <p style="font-weight: 700;">Backend Developer</p><p style="font-style: italic;">August 2022 - December 2022</p></div>
