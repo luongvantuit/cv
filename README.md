@@ -13,10 +13,10 @@ I'm Software Engineer. I have 1 year experience in Backend & Ops. I'm a person w
 
 ---
 
-- **Languages:** Javascript, Typescript,....
-- **Frameworks:** React, React Native, NextJS, NodeJS, TailwindCSS, Express, NestJS.
-- **Databases:** MongoDB, PostgreSQL.
-- **DevOps:** CI/CD (Bitbucket Pipeline, Github Action, Jenkins), Docker, Kubernetes, Git, Terraform, NGINX.
+- **Languages:** Python, Golang, Javascript.
+- **DBSM:** MongoDB, PostgreSQL, MySQL.
+- **Technologies:** CI/CD, K8s
+- **Pattern:** DDD, Saga, Outbox
 
 ## **EDUCATION**
 
@@ -25,19 +25,31 @@ I'm Software Engineer. I have 1 year experience in Backend & Ops. I'm a person w
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
 <p style="font-weight: 700;">University of Science, Vietnam National University Hanoi - Ha Noi, Vietnam</p><p style="font-style: italic;">October 2019 - Present</p></div>
 
-> Computer and Information Science
-
 ## **Experience**
 
 ---
 
+### **Open Techiz**
+
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px; margin: 12px 0 6px 0;">
+<p style="font-weight: 700;">Mektoube</p><p style="font-style: italic;">March 2023 - Present</p></div>
+
+- **Role:** Backend Developer
+- **Description:** Mektoube aims to develop a mobile dating application specifically designed for Muslim individuals, creating a platform for communication and connection among users who share common religious values and beliefs. The application will provide features to assist users in finding and connecting based on preferences, religious beliefs, and marriage goals.
+- **DBMS:** MySQL, MongoDB
+- **Technologies:** Golang, Javascript, Google Cloud, Kubernetes, Redis, RabbitMQ, Prosody XMPP,...
+- **Responsibilities:**
+  - Maintain
+
 ### **AusVie**
 
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px; margin: 12px 0 6px 0;">
-<p style="font-weight: 700;">Logistics - Mobile Developer</p><p style="font-style: italic;">December 2023 - March 2023</p></div>
+<p style="font-weight: 700;">Logistics system</p><p style="font-style: italic;">February 2022 - March 2023</p></div>
 
-- **Description:** Build a mobile application for staff update information of order (Confirm Booking, Unit Packing,...).
-- **Technologies:** React Native, Redux, Camera Vision.
+- **Role:** Fullstack Developer
+- **Description:** AusVie is a project that aims to develop a simple mobile and web application that allows users to conveniently and easily book freight shipments from Australia to Vietnam. The application will provide features for order management, shipment tracking.
+- **DBMS:** PostgreSQL.
+- **Technologies:** Terraform, NextJS, Strapi, AWS (ECS, ECR, RDS),...
 - **Responsibilities:**
   - Create UI from Figma design.
   - Make all screens: Scan QR Pallet, Update Step (Confirm Booking, Unit Packing),...
@@ -45,7 +57,7 @@ I'm Software Engineer. I have 1 year experience in Backend & Ops. I'm a person w
   - Manager state application with Redux (Authentication,...).
   - Deploy application to Testflight, App Store Connect.
 
-<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
+<!-- <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
 <p style="font-weight: 700;">Logistics - Backend Developer</p><p style="font-style: italic;">August 2022 - December 2022</p></div>
 
 - **Description:** Build a headless CMS from Strapi (Open source) for logistics company between Australia & Vietnam.
@@ -75,9 +87,9 @@ I'm Software Engineer. I have 1 year experience in Backend & Ops. I'm a person w
 - **Responsibilities:**
   - Develop backend config base project.
   - Learn apply Agile Scrum on Jira.
-  - Define authorization JWT for authentication system.
+  - Define authorization JWT for authentication system. -->
 
-### **Rogo Solutions**
+<!-- ### **Rogo Solutions**
 
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px; margin: 12px 0 6px 0;">
 <p style="font-weight: 700;">Rogo Hotel - Frontend Developer (Collaborator)</p><p style="font-style: italic;">April 2022 - Jun 2022</p></div>
@@ -108,7 +120,7 @@ I'm Software Engineer. I have 1 year experience in Backend & Ops. I'm a person w
   - **Tools:** Docker.
 - **Responsibilities:**
   - Develop website with Flutter web.
-  - UI/UX manager partner of Rogo Solutions.
+  - UI/UX manager partner of Rogo Solutions. -->
 
 ## **ACTIVITIES**
 
