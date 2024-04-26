@@ -32,14 +32,16 @@ I'm Software Engineer. I have 1 year experience in Backend & Ops. I'm a person w
 ### **Open Techiz**
 
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px; margin: 12px 0 6px 0;">
-<p style="font-weight: 700;">Mektoube</p><p style="font-style: italic;">March 2023 - Present</p></div>
+<p style="font-weight: 700;">Mektoube & Mashallah</p><p style="font-style: italic;">March 2023 - Present</p></div>
 
 - **Role:** Backend Developer
-- **Description:** Mektoube aims to develop a mobile dating application specifically designed for Muslim individuals, creating a platform for communication and connection among users who share common religious values and beliefs. The application will provide features to assist users in finding and connecting based on preferences, religious beliefs, and marriage goals.
+- **Description:** Mektoube & Mashallah aims to develop a mobile dating application specifically designed for Muslim individuals, creating a platform for communication and connection among users who share common religious values and beliefs. The application will provide features to assist users in finding and connecting based on preferences, religious beliefs, and marriage goals.
 - **DBMS:** MySQL, MongoDB
 - **Technologies:** Golang, Javascript, Google Cloud, Kubernetes, Redis, RabbitMQ, Prosody XMPP,...
 - **Responsibilities:**
-  - Maintain
+  - Maintain BackOffice system of Mektoube & Mashallah applications.
+  - Added new features for Mektoube & Mashallah applications.
+  - Tracking Google, Apple, and Stripe transactions when using buy a subscription or the in-app purchase.
 
 ### **AusVie**
 
@@ -51,11 +53,10 @@ I'm Software Engineer. I have 1 year experience in Backend & Ops. I'm a person w
 - **DBMS:** PostgreSQL.
 - **Technologies:** Terraform, NextJS, Strapi, AWS (ECS, ECR, RDS),...
 - **Responsibilities:**
-  - Create UI from Figma design.
-  - Make all screens: Scan QR Pallet, Update Step (Confirm Booking, Unit Packing),...
-  - Interact with REST API (form-data, application/json).
-  - Manager state application with Redux (Authentication,...).
-  - Deploy application to Testflight, App Store Connect.
+  - As a DevOps person, my task is to install a CI/CD system with the tool Bitbucket pipelines to test and deploy software on AWS and build Terraform modules to deploy Infrastructure to AWS.
+  - After the infrastructure issues have stabilized, as a Backend Developer, I participate in building the basic features of the system, designing the database, and providing services around the functions and requirements of the system
+  - As a Front End Developer, I support completing the customer-side user interface and interacting with user APIs.
+  - Finally, I completed the functionality of the application for AusVie employees, to update the status of shipping orders and track them.
 
 <!-- <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
 <p style="font-weight: 700;">Logistics - Backend Developer</p><p style="font-style: italic;">August 2022 - December 2022</p></div>
