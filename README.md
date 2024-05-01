@@ -1,54 +1,79 @@
 <p align="center" style="font-weight: 700;">Luong Van Tu</p>
 <p align="center"><a href="mailto:luongvantuit@gmail.com">luongvantuit@gmail.com</a></p>
 <p align="center">+84965445305</p>
-<p align="center"><a align="center" href="https://github.com/luongvantuit">GitHub</a></p>
+<!-- <p align="center"><a align="center" href="https://github.com/luongvantuit">GitHub</a></p> -->
 
-## **SUMMARY**
+## **Objective**
 
 ---
 
-I'm Software Engineer. I have 1 year experience in Backend & Ops. I'm a person who is passionate about learning new things, especially in the field of technology. I'm a person who is always willing to learn and share knowledge with others.
+As a Backend and DevOps Software Engineer, I am passionate about building robust backend systems and implementing efficient DevOps practices. I am dedicated to continuous learning and strive to deliver high-quality solutions that meet both functional and non-functional requirements.
+Share
 
-## **SKILLS**
+## **Skills**
 
 ---
 
 - **Languages:** Python, Golang, Javascript.
 - **DBSM:** MongoDB, PostgreSQL, MySQL.
-- **Technologies:** CI/CD, K8s
-- **Pattern:** DDD, Saga, Outbox
+- **CI/CD:** Jenkins, GitHub Actions,...
+- **Pattern:** Saga, Outbox,...
+- **Development:** Docker, K8s
 
-## **EDUCATION**
+## **Work Experience**
 
----
+### **Open Techiz**
 
-<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
-<p style="font-weight: 700;">University of Science, Vietnam National University Hanoi - Ha Noi, Vietnam</p><p style="font-style: italic;">October 2019 - Present</p></div>
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px; margin: 12px 0 6px 0;">
+<p style="font-weight: 700;">Software Engineer</p><p style="font-style: italic;">March 2023 - Now</p></div>
 
-## **Experience**
+### **AusVie**
+
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px; margin: 12px 0 6px 0;">
+<p style="font-weight: 700;">Software Engineer</p><p style="font-style: italic;">March 2022 - March 2023</p></div>
+
+### **AusVie**
+
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px; margin: 12px 0 6px 0;">
+<p style="font-weight: 700;">Internship Software Engineer</p><p style="font-style: italic;">February 2022 - March 2022</p></div>
+
+## **Projects**
 
 ---
 
 ### **Open Techiz**
 
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px; margin: 12px 0 6px 0;">
-<p style="font-weight: 700;">Mektoube & Mashallah</p><p style="font-style: italic;">March 2023 - Present</p></div>
+<p style="font-weight: 700;">Mektoube & Mashallah</p><p style="font-style: italic;">March 2023 - Now</p></div>
 
-- **Role:** Backend Developer
+<!-- - **Role:** Backend Developer
 - **Description:** Mektoube & Mashallah aims to develop a mobile dating application specifically designed for Muslim individuals, creating a platform for communication and connection among users who share common religious values and beliefs. The application will provide features to assist users in finding and connecting based on preferences, religious beliefs, and marriage goals.
 - **DBMS:** MySQL, MongoDB
 - **Technologies:** Golang, Javascript, Google Cloud, Kubernetes, Redis, RabbitMQ, Prosody XMPP,...
 - **Responsibilities:**
   - Maintain BackOffice system of Mektoube & Mashallah applications.
   - Added new features for Mektoube & Mashallah applications.
-  - Tracking Google, Apple, and Stripe transactions when using buy a subscription or the in-app purchase.
+  - Tracking Google, Apple, and Stripe transactions when using buy a subscription or the in-app purchase. -->
+
+**Technology Description**
+
+- Language: Javascript, Typescript, Golang, Ruby.
+- Framework: ReactJS, React Native, Echo, NestJS.
+- Database: MySQL, MongoDB, Elasticsearch, Redis.
+- AMQP: RabbitMQ, Google Pub/Sub.
+- XMPP: Prosody XMPP.
+- CI/CD: Jenkins.
+- Development: K8s, Docker.
+- AWS: SES.
+- Payment: Google, Apple, Stripe.
+- Monitoring: Grafana, Loki, Prometheus.
 
 ### **AusVie**
 
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px; margin: 12px 0 6px 0;">
 <p style="font-weight: 700;">Logistics system</p><p style="font-style: italic;">February 2022 - March 2023</p></div>
 
-- **Role:** Fullstack Developer
+<!-- - **Role:** Fullstack Developer
 - **Description:** AusVie is a project that aims to develop a simple mobile and web application that allows users to conveniently and easily book freight shipments from Australia to Vietnam. The application will provide features for order management, shipment tracking.
 - **DBMS:** PostgreSQL.
 - **Technologies:** Terraform, NextJS, Strapi, AWS (ECS, ECR, RDS),...
@@ -56,7 +81,16 @@ I'm Software Engineer. I have 1 year experience in Backend & Ops. I'm a person w
   - As a DevOps person, my task is to install a CI/CD system with the tool Bitbucket pipelines to test and deploy software on AWS and build Terraform modules to deploy Infrastructure to AWS.
   - After the infrastructure issues have stabilized, as a Backend Developer, I participate in building the basic features of the system, designing the database, and providing services around the functions and requirements of the system
   - As a Front End Developer, I support completing the customer-side user interface and interacting with user APIs.
-  - Finally, I completed the functionality of the application for AusVie employees, to update the status of shipping orders and track them.
+  - Finally, I completed the functionality of the application for AusVie employees, to update the status of shipping orders and track them. -->
+
+**Technology Description**
+
+- Language: Javascript, Typescript.
+- Framework: NextJS, Strapi.
+- Database: PostgreSQL.
+- CI/CD: Bitbucket Pipeline.
+- IaC: Terraform.
+- AWS: ECS, ECR, RDS, ELB, S3...
 
 <!-- <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
 <p style="font-weight: 700;">Logistics - Backend Developer</p><p style="font-style: italic;">August 2022 - December 2022</p></div>
@@ -123,18 +157,24 @@ I'm Software Engineer. I have 1 year experience in Backend & Ops. I'm a person w
   - Develop website with Flutter web.
   - UI/UX manager partner of Rogo Solutions. -->
 
-## **ACTIVITIES**
+## **Education**
+
+---
+
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
+<p style="font-weight: 700;">University of Science, Vietnam National University Hanoi - Ha Noi, Vietnam</p><p style="font-style: italic;">October 2019 - Present</p></div>
+
+## **Activities**
 
 ---
 
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
 <p style="font-weight: 700;">Build On Vietnam 2021</p><p style="font-style: italic;">August 2021 - Sep 2021</p></div>
 
-- **Description:** Join with Techcombank FACT team to recommend & demo a solution for Techcombank. This application help customer can manage their account, money more easily.
-- **Finalist** - Build On Contest [Certificates](https://buildonvietnam21.s3.ap-southeast-1.amazonaws.com/BOVN21+Certificates/Techcombank_FACT_Luong+Van+Tu.pdf)
+- Finalist - Build On Contest (FACT team) [Certificates](https://buildonvietnam21.s3.ap-southeast-1.amazonaws.com/BOVN21+Certificates/Techcombank_FACT_Luong+Van+Tu.pdf)
 
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
-<p style="font-weight: 700;">HAMIC - HUS Applied Mathematics and Informatics Club</p><p style="font-style: italic;">June 2021 - Present</p></div>
+<p style="font-weight: 700;">HAMIC - HUS Applied Mathematics and Informatics Club</p><p style="font-style: italic;">June 2021 - June 2023</p></div>
 
 - Head of Design & Development Web
 - The organizers of the club's activities, such as: WContest: Web for Education.
