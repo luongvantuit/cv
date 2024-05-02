@@ -3,14 +3,14 @@
 <p align="center">+84965445305</p>
 <!-- <p align="center"><a align="center" href="https://github.com/luongvantuit">GitHub</a></p> -->
 
-## **Objective**
+## **OBJECTIVE**
 
 ---
 
-As a Backend and DevOps Software Engineer, I am passionate about building robust backend systems and implementing efficient DevOps practices. I am dedicated to continuous learning and strive to deliver high-quality solutions that meet both functional and non-functional requirements.
+As a Backend and DevOps Software Developer, I am passionate about building robust backend systems and implementing efficient DevOps practices. I am dedicated to continuous learning and strive to deliver high-quality solutions that meet both functional and non-functional requirements.
 Share
 
-## **Skills**
+<!-- ## **Skills**
 
 ---
 
@@ -18,26 +18,32 @@ Share
 - **DBSM:** MongoDB, PostgreSQL, MySQL.
 - **CI/CD:** Jenkins, GitHub Actions,...
 - **Pattern:** Saga, Outbox,...
-- **Development:** Docker, K8s
+- **Development:** Docker, K8s -->
 
-## **Work Experience**
+## **WORK EXPERIENCE**
 
 ### **Open Techiz**
 
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px; margin: 12px 0 6px 0;">
-<p style="font-weight: 700;">Software Engineer</p><p style="font-style: italic;">March 2023 - Now</p></div>
+<p style="font-weight: 700;">Software Developer</p><p style="font-style: italic;">March 2023 - Now</p></div>
+
+I am tasked with improving and adding new features to the company's system. This involves analyzing the existing system, identifying areas for enhancement, and proposing solutions. I work closely with the team to prioritize requirements and implement changes that improve code organization and enhance product performance. Through effective communication and active participation in code reviews, I contribute to the continuous improvement of the system's functionality and efficiency. My ultimate aim is to deliver a high-quality product that meets the company's needs and drives its success.
 
 ### **AusVie**
 
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px; margin: 12px 0 6px 0;">
-<p style="font-weight: 700;">Software Engineer</p><p style="font-style: italic;">March 2022 - March 2023</p></div>
+<p style="font-weight: 700;">Software Developer</p><p style="font-style: italic;">March 2022 - March 2023</p></div>
+
+As a software developer, my role revolves around the entire software development lifecycle. I gather requirements, design systems, write code, conduct testing, and deploy applications. Collaborating with team members, I create clean and efficient code while ensuring the functionality and performance of the software. I actively participate in code reviews, staying updated with the latest technologies and industry standards. With problem-solving skills and creativity, I deliver reliable and user-friendly software solutions, following established development processes and working effectively with my team.
 
 ### **AusVie**
 
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px; margin: 12px 0 6px 0;">
-<p style="font-weight: 700;">Internship Software Engineer</p><p style="font-style: italic;">February 2022 - March 2022</p></div>
+<p style="font-weight: 700;">Internship Software Developer</p><p style="font-style: italic;">February 2022 - March 2022</p></div>
 
-## **Projects**
+During my internship as a software developer at the company, I will be working with the NestJS framework, following established workflows, and contributing to database design. It's an exciting opportunity to develop my programming skills and gain practical experience in building high-quality applications.
+
+## **PROJECTS**
 
 ---
 
@@ -45,6 +51,8 @@ Share
 
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px; margin: 12px 0 6px 0;">
 <p style="font-weight: 700;">Mektoube & Mashallah</p><p style="font-style: italic;">March 2023 - Now</p></div>
+
+**Description:**: Mektoube & Mashallah aims to develop a mobile dating application specifically designed for Muslim individuals, creating a platform for communication and connection among users who share common religious values and beliefs. The application will provide features to assist users in finding and connecting based on preferences, religious beliefs, and marriage goals.
 
 <!-- - **Role:** Backend Developer
 - **Description:** Mektoube & Mashallah aims to develop a mobile dating application specifically designed for Muslim individuals, creating a platform for communication and connection among users who share common religious values and beliefs. The application will provide features to assist users in finding and connecting based on preferences, religious beliefs, and marriage goals.
@@ -55,7 +63,9 @@ Share
   - Added new features for Mektoube & Mashallah applications.
   - Tracking Google, Apple, and Stripe transactions when using buy a subscription or the in-app purchase. -->
 
-**Technology Description**
+**Responsibilities:** In the project, my role involves maintaining the existing system and adding new functionalities to support the administrative review process. I focus on expanding tools that aid in the efficient review of content. For example, I integrate GPT-based systems to analyze user conversations, enabling automated evaluation of validity and safety. Additionally, I upgrade and remove deprecated third-party APIs, ensuring the system utilizes the latest and reliable versions. I also provide support to other team members in troubleshooting ticket-related issues. By fulfilling these responsibilities, I contribute to the development of an efficient and reliable review system while assisting the team in achieving project goals.
+
+**Technology Description:**
 
 - Language: Javascript, Typescript, Golang, Ruby.
 - Framework: ReactJS, React Native, Echo, NestJS.
@@ -73,6 +83,10 @@ Share
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px; margin: 12px 0 6px 0;">
 <p style="font-weight: 700;">Logistics system</p><p style="font-style: italic;">February 2022 - March 2023</p></div>
 
+**Description:** AusVie is a project that aims to develop a simple mobile and web application that allows users to conveniently and easily book freight shipments from Australia to Vietnam. The application will provide features for order management, shipment tracking.
+
+**Responsibilities:** I was responsible for building the infrastructure of the deployment system on AWS using Terraform, which simplified the deployment process. I also built the CI/CD pipeline with Bitbucket to automate development and deployment. Additionally, I developed the backend system for our logistics platform, which transports goods between Australia and Vietnam. The system calculates shipping orders and provides prices for customers, along with features for shipping personnel. Finally, I assisted with client-side development and mobile application development for the system's employees.
+
 <!-- - **Role:** Fullstack Developer
 - **Description:** AusVie is a project that aims to develop a simple mobile and web application that allows users to conveniently and easily book freight shipments from Australia to Vietnam. The application will provide features for order management, shipment tracking.
 - **DBMS:** PostgreSQL.
@@ -83,7 +97,7 @@ Share
   - As a Front End Developer, I support completing the customer-side user interface and interacting with user APIs.
   - Finally, I completed the functionality of the application for AusVie employees, to update the status of shipping orders and track them. -->
 
-**Technology Description**
+**Technology Description:**
 
 - Language: Javascript, Typescript.
 - Framework: NextJS, Strapi.
@@ -157,14 +171,14 @@ Share
   - Develop website with Flutter web.
   - UI/UX manager partner of Rogo Solutions. -->
 
-## **Education**
+## **EDUCATION**
 
 ---
 
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: 12px;">
-<p style="font-weight: 700;">University of Science, Vietnam National University Hanoi - Ha Noi, Vietnam</p><p style="font-style: italic;">October 2019 - Present</p></div>
+<p style="font-weight: 700;">University of Science, Vietnam National University Hanoi - Ha Noi, Vietnam</p><p style="font-style: italic;">October 2019 - Now</p></div>
 
-## **Activities**
+## **ACTIVITIES**
 
 ---
 
