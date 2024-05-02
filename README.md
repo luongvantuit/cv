@@ -8,7 +8,6 @@
 ---
 
 As a Backend and DevOps Software Developer, I am passionate about building robust backend systems and implementing efficient DevOps practices. I am dedicated to continuous learning and strive to deliver high-quality solutions that meet both functional and non-functional requirements.
-Share
 
 <!-- ## **Skills**
 
