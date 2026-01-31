@@ -6,14 +6,14 @@
 
 ## Summary
 
-Backend and DevOps Software Developer with experience in building backend systems and cloud infrastructure. Proficient in Golang, TypeScript, and JavaScript. Experienced with containerization using Docker and Kubernetes, infrastructure as code with Terraform, and CI/CD pipeline implementation. Focused on delivering reliable and maintainable solutions.
+Full-stack Software Developer with experience in building backend systems, frontend applications, and cloud infrastructure. Proficient in Golang, TypeScript, and JavaScript with expertise in both backend (Node.js, NestJS) and frontend (ReactJS, Next.js) development. Experienced with containerization using Docker and Kubernetes, infrastructure as code with Terraform, and CI/CD pipeline implementation. Focused on delivering reliable and maintainable solutions.
 
 ---
 
 ## Technical Skills
 
 - **Languages:** Golang, TypeScript, JavaScript, Python, Ruby
-- **Frameworks:** NestJS, Echo, ReactJS, NextJS, Strapi
+- **Frameworks:** NestJS, Echo, ReactJS, React Native, NextJS, Strapi
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
 - **Message Brokers:** RabbitMQ, Google Pub/Sub
 - **DevOps & Cloud:** Docker, Kubernetes, Terraform, AWS (ECS, ECR, RDS, S3, SES, ELB)
@@ -73,10 +73,11 @@ End-to-end logistics platform for managing freight shipments between Australia a
 - Architected and deployed cloud infrastructure on AWS using Terraform (IaC)
 - Developed automated CI/CD pipeline with Bitbucket for streamlined deployment
 - Built backend services including shipping cost calculation engine and order management
-- Created employee mobile application for shipment status updates and tracking
+- Developed React Native mobile application for warehouse employees to update shipment status and track orders
+- Contributed to frontend development using NextJS for customer-facing web application
 - Designed PostgreSQL database schema for logistics operations
 
-**Tech Stack:** TypeScript, JavaScript | NextJS, Strapi CMS | PostgreSQL | Terraform | AWS (ECS, ECR, RDS, ELB, S3) | Bitbucket Pipeline
+**Tech Stack:** TypeScript, JavaScript | NextJS, Strapi CMS, React Native | PostgreSQL | Terraform | AWS (ECS, ECR, RDS, ELB, S3) | Bitbucket Pipeline
 
 ---
 
