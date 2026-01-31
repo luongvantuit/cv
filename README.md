@@ -80,6 +80,28 @@ End-to-end logistics platform for managing freight shipments between Australia a
 
 ---
 
+## Open Source Projects
+
+### ZeroX Solutions | Founder & Maintainer
+*Organization: [github.com/zeroxsolutions](https://github.com/zeroxsolutions) | Website: [zeroxsolutions.com](https://zeroxsolutions.com)*
+
+Creator and maintainer of production-ready Go libraries for backend development and microservices architecture.
+
+**Key Libraries & Tools:**
+
+- **[beginning](https://github.com/zeroxsolutions/beginning)** - CLI tool for scaffolding Go projects from templates with automatic shell completion support (bash, zsh, fish, PowerShell). Includes service and library templates with APIs, databases, Swagger docs, and testing configurations
+- **[banshee](https://github.com/zeroxsolutions/banshee)** - Production-ready caching library with unified interface for Redis and mock implementations. Features sub-millisecond latency, pattern matching, TTL support, and thread-safe operations
+- **[vidar](https://github.com/zeroxsolutions/vidar)** - Lightweight pub/sub abstraction library supporting Redis backend with extensible architecture for messaging patterns
+- **[sazabi](https://github.com/zeroxsolutions/sazabi)** - Structured logging library built on Zap with configurable logging levels
+- **[barbatos](https://github.com/zeroxsolutions/barbatos)** - Common interfaces and models for microservices
+- **[strike](https://github.com/zeroxsolutions/strike)** - Utility functions and helpers for Go applications
+- **[narrative](https://github.com/zeroxsolutions/narrative)** - Bucket interaction library for object storage
+- **[alex](https://github.com/zeroxsolutions/alex)** - Configuration management library
+
+**Tech Stack:** Go, Redis
+
+---
+
 ## Education
 
 **University of Science, Vietnam National University Hanoi**
